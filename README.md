@@ -1,4 +1,5 @@
-# FinTram Global – Exam Preparation Platform
+<img width="1894" height="812" alt="image" src="https://github.com/user-attachments/assets/24a6b000-9d64-4cec-bc52-8b072f4d54a8" />
+# Exam Preparation Platform
 
 Monorepo with Django (backend) and React (frontend).
 
